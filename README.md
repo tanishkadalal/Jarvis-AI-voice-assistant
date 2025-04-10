@@ -23,27 +23,16 @@ Jarvis is a personal voice assistant made using Python. It listens to your voice
 - [`playsound`](https://pypi.org/project/playsound/)
 - Standard Python libraries like `datetime`, `os`, and more
 
-## 📁 Project Structure
 
-```
-jarvis/
-├── engine/
-│   ├── commands.py        # Where the assistant's actions live
-│   └── config.py          # Settings and configurations
-├── features.py            # Speech recognition & text-to-speech
-├── main.py                # The main script to run Jarvis
-├── README.md
-└── requirements.txt       # Required Python packages
-``
 
 ## ⚙️ How to Set It Up
 
 1. **Clone the project**
 
-'''bash
+```bash
 git clone https://github.com/yourusername/jarvis.git
 cd jarvis
-'''
+```
 
 2. **Install the dependencies**
 
