@@ -2,9 +2,8 @@
 
 Jarvis is a voice-powered assistant built with Python. It listens to your voice commands and responds or performs tasks accordingly. This project is a simple, modular setup designed to help you understand how voice interfaces work and how Python can be used to automate actions on your computer. Great for beginners experimenting with speech recognition, text-to-speech, and custom command systems.
 
----
 
-```markdown
+```Markdown
 # Jarvis – A Python Voice Assistant
 
 Jarvis is a personal voice assistant made using Python. It listens to your voice, understands what you’re asking, and responds out loud or performs an action. Think of it as a small step towards building your own smart assistant like Siri or Alexa — but open-source and customizable.
@@ -35,16 +34,16 @@ jarvis/
 ├── main.py                # The main script to run Jarvis
 ├── README.md
 └── requirements.txt       # Required Python packages
-```
+``
 
 ## ⚙️ How to Set It Up
 
 1. **Clone the project**
 
-```bash
+'''bash
 git clone https://github.com/yourusername/jarvis.git
 cd jarvis
-```
+'''
 
 2. **Install the dependencies**
 
